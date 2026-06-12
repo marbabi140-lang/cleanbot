@@ -6,7 +6,7 @@ import asyncio
 import yt_dlp
 import requests
 
-from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 TOKEN = "8581157031:AAEi_-ZtNAm5zIxmUwxOA-SF6CkKxNASpzo"
